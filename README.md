@@ -67,3 +67,15 @@ This task demonstrates:
 - Clear presentation of insights — a skill I am preparing to showcase in my internship applications.
 
 
+---
+## 👩‍💻 Author
+
+*Zahabia Ahmed*  
+Data Scienctist | Educator | Content Creator | Aspiring AI Engineer 
+[YouTube: Zahabia Ahmed](https://www.youtube.com/@ZahabiaAhmed)
+[Instagram](https://www.instagram.com/zahabiaahmed?igsh=MXkwNzkzdGJsMzJqOA==)
+[FaceBook](https://www.facebook.com/share/1KBwSz91no/)
+[X- Twitter]( https://x.com/AhmedZahabia?t=yAAjSTYTwRRQsXCeomBMuQ&s=08)
+[Pinterest](https://pin.it/47OMFKosD)
+
+
